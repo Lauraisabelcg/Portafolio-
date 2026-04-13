@@ -51,3 +51,7 @@ body{
     background-image: url(https://wallpapers.com/images/hd/cloudy-mountain-and-forest-professional-desktop-3gpb4j14ljx9jhgg.jpg);
     
 }
+#proyectos{
+    background-color: rgb(224, 222, 219);
+    filter:drop-shadow(5px 5px 10px  rgba(207, 156, 255, 0.925));
+}
